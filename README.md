@@ -7,7 +7,7 @@
 Accurate prediction of early recurrence (≤ 730 days) is critical for personalised surveillance and adjuvant therapy in HCC.  
 We propose an **unsupervised GMM-filtered radiomics + multimodal fusion** pipeline that:  
 1. Discovers **intrinsic CT imaging phenotypes** via Gaussian-Mixture clustering (no labels needed).  
-2. Integrates **clinical (15 vars) + pathological (7 vars) + radiomics (top-50 stable features)**.  
+2. Integrates **clinical (15 vars) + pathological (7 vars) + radiomics (top-50 distinctive features)**.  
 3. Delivers **robust, interpretable models** through repeated nested cross-validation & SHAP explainability.  
 
 **Key performance** (internal cohort, n = 142):  
