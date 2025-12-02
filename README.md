@@ -16,8 +16,7 @@ AUC = **0.909** (95 % CI 0.900–0.918), Sensitivity = 0.831, Specificity = 0.85
 ---
 
 ##  Framework Architecture  
-![framework](https://raw.githubusercontent.com/YOUR-GITHUB/HRP2025/main/figures/umap_clusters.png)  
-*(replace with raw link to Overview_of_early_post-operative_recurrence_prediction_framework.png)*  
+![An Overview figure of early post-operative recurrence prediction.](overview.png)
 
 | Module | Function |
 | --- | --- |
