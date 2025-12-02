@@ -3,7 +3,7 @@
 
 ---
 
-## 🔍 Overview  
+## Overview  
 Accurate prediction of early recurrence (≤ 730 days) is critical for personalised surveillance and adjuvant therapy in HCC.  
 We propose an **unsupervised GMM-filtered radiomics + multimodal fusion** pipeline that:  
 1. Discovers **intrinsic CT imaging phenotypes** via Gaussian-Mixture clustering (no labels needed).  
@@ -41,7 +41,7 @@ HRP2025/
 
 ---
 
-## Quick Start (Zero-Code)  
+## Quick Start 
 1. Clone repo  
 ```bash
 git clone https://github.com/YOUR-GITHUB/HRP2025.git
