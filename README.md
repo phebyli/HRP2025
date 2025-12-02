@@ -16,7 +16,7 @@ AUC = **0.909** (95 % CI 0.900–0.918), Sensitivity = 0.831, Specificity = 0.85
 ---
 
 ##  Framework Architecture  
-![An overview of early post-operative recurrence prediction framework.](Overview.png)
+![An overview of early post-operative recurrence prediction framework.](overview.png)
 
 | Module | Function |
 | --- | --- |
