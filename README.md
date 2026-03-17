@@ -79,4 +79,4 @@ pip install -r requirements.txt
 
 ## Citation
 If you use this code, please cite:
-Li Y, Wang Z, He Z, Guo C, Liu R, Rong P. Early post-operative HCC recurrence prediction using GMM-filtered radiomics and multimodal feature fusion.
+Li, Y., Wang, Z., He, Z., Guo, C., Liu, J., Peng, Z., Liu, R., Rong, P. (2026). Multimodal Feature Fusion with GMM-Filtered Radiomics for Predicting Early HCC Recurrence.
